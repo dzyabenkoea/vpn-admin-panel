@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "tailwind": "tailwindcss -i backend/src/static/input.css -o backend/src/static/main.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
